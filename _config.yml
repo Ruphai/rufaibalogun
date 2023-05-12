@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rufai Omowunmi Balogun"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rufai Omowunmi Balogun"
 description              : &description "personal description"
 url                      : https://ruphai.github.io/rufaibalogun/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rufai Omowunmi Balogun"
   avatar           : "profile.png"
-  bio              : "Earth Observation Data Scientist"
+  bio              : "Utilizing Earth Observation Data Science for driving sustainable Planetary Health"
   location         : "Bolzano, Italy"
   employer         : "EURAC Research"
   pubmed           : 
