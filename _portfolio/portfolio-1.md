@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Semantic Segmentation of Remote Sensing Images"
+excerpt: "A comparison of UNET versus SegNET for Land Cover Segmentation<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

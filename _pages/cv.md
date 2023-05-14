@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Meteorology and Climate Science, Federal University of Technology, Akure, 2019
+* M.Sc. in Earth Observation and Geo-Informatics, University of Salzburg, Austria, 2021
+* MSc. in Geo-Data Science, University of South Brittany, France, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2022 - present: Earth Observation Data Science researcher
+  * EURAC Research
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2015: Geospatial Analyst
+  * CDL GeoHUM
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -57,3 +57,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Full CV
+======
+* Find here
