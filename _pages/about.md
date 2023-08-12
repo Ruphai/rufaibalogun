@@ -27,3 +27,5 @@ I currently serve as a young professional ambassador for the [IEEE Geoscience an
 
 -	Climate Change AI,
 -	Earth Observation
+
+[**Full CV**](http://rufaibalogun.com/files/Rufai_Omowunmi_Balogun.pdf)
