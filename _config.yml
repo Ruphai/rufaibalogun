@@ -11,13 +11,13 @@ title                    : "Rufai Omowunmi Balogun"
 title_separator          : "-"
 name                     : &name "Rufai Omowunmi Balogun"
 description              : &description "personal description"
-url                      : https://ruphai.github.io/rufaibalogun/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rufaibalogun.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/Ruphai/rufaibalogun"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : google-site-verification=TK65pjtAnR7pMDf9VhVc1jrYmf9hM3qZ0sUf9SDC6KI
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
