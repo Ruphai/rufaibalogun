@@ -15,12 +15,15 @@ I am currently working at the Institute for Earth Observation, European Research
 Prior to this, I was at the Christian Doppler’s Laboratory for Geospatial and EO-based Humanitarian Technologies [(CDL-GEOHUM)](https://geohum.eu/) as a Geospatial Analyst. Here, I developed a population spatial indicator for assessing the emergency scenarios necessary for initiating a Mass Drugs Administration (MDA) for malaria-prone regions in the African Western Rift. As a Geospatial Analyst at Space4Good, I worked on the extraction of tree crowns from aerial imageries. As part of a team of 5 other early-career scientists at the Sixth Avis, I co-developed the EARWAC analytic dashboard for monitoring coastal multi-hazards in 15 coastal west African countries. 
 
 **Education**
-I completed the Copernicus Master’s in Digital Earth, an Erasmus Mundus Joint Master’s degree program hosted by the University of Salzburg and the University of South Brittany with a specialization in Geo-Data Science. During this time, I developed a thesis on the `Transferability of visual-language models to remote sensing images`. I have a background in Meteorology and Climate Science from the Federal University of Technology, Akure (FUTA).
+
+I completed the Copernicus Master’s in Digital Earth, an Erasmus Mundus Joint Master’s degree program hosted by the University of Salzburg and the University of South Brittany with a specialization in Geo-Data Science. During this time, I developed a thesis on the "Transferability of visual-language models to remote sensing images". I have a background in Meteorology and Climate Science from the Federal University of Technology, Akure (FUTA).
 
 **Community**
-I currently serve as a young professional ambassador for the IEEE Geoscience and Remote Sensing Society (GRSS) working on the Industry Relations Portfolio.
+
+I currently serve as a young professional ambassador for the [IEEE Geoscience and Remote Sensing Society (GRSS)](https://www.grss-ieee.org/) working on the Industry Relations Portfolio.
 
 
 **Research Interest**
+
 -	Climate Change AI,
 -	Earth Observation
