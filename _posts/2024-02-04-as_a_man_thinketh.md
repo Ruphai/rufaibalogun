@@ -1,7 +1,7 @@
 ---
 title: 'It usually starts with a thought'
 date: 2024-02-04
-permalink: /posts/as_a_man_thinketh/
+permalink: /posts/2024/02/as_a_man_thinketh/
 tags:
   - thoughts
   - personal development
